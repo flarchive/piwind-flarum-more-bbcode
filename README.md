@@ -2,13 +2,16 @@
 
 > **Read-only archive of released versions of piwind/flarum-more-bbcode.** Not for installation: use [Packagist](https://packagist.org/packages/piwind/flarum-more-bbcode) or the [upstream repository](https://github.com/piwind/flarum-more-bbcode).
 
-**0** versions archived · Latest: [`v2.2.2`](https://github.com/flarchive/piwind-flarum-more-bbcode/tree/archive/v2.2.2) · License: `MIT` · Flarum: `^1.2.0`
+**4** versions archived · Latest: [`v2.2.2`](https://github.com/flarchive/piwind-flarum-more-bbcode/tree/archive/v2.2.2) · License: `MIT` · Flarum: `^1.2.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v2.1.9` | 2025-05-11 | `^1.2.0` | [Browse](https://github.com/flarchive/piwind-flarum-more-bbcode/tree/archive/v2.1.9) |
+| `v2.2.0` | 2025-05-11 | `^1.2.0` | [Browse](https://github.com/flarchive/piwind-flarum-more-bbcode/tree/archive/v2.2.0) |
+| `v2.2.1` | 2025-05-11 | `^1.2.0` | [Browse](https://github.com/flarchive/piwind-flarum-more-bbcode/tree/archive/v2.2.1) |
+| `v2.2.2` | 2025-05-22 | `^1.2.0` | [Browse](https://github.com/flarchive/piwind-flarum-more-bbcode/tree/archive/v2.2.2) |
 
 Catalog entry: [packages/piwind-flarum-more-bbcode.json](https://github.com/flarchive/archive-index/blob/main/packages/piwind-flarum-more-bbcode.json)
 
